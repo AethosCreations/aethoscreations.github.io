@@ -1,5 +1,9 @@
 img {
-    color: white; font-family: Arial, Helvetica, sans-serif; width: 33% ; height: auto;
+    color: white; font-family: Arial, Helvetica, sans-serif; width: 32% ; height: auto;
+}
+
+.sqimage{
+    color: white; font-family: Arial, Helvetica, sans-serif; width: 25% ; height: auto;
 }
 
 a {
