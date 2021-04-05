@@ -3,5 +3,14 @@ img {
 }
 
 a {
-    color: white; padding: 30px; font-family: Arial, Helvetica, sans-serif;
+    color: white; padding-left: 30px; font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: vaonom; font-size: 75px; color: white; padding-top: 5px; padding-left: 30px; padding-bottom: 5px;
+}
+
+@font-face {
+    font-family: vaonom;
+    src: url(VaonomBold-DBr9.ttf);
 }
